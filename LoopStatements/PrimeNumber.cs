@@ -2,7 +2,7 @@ using System;
 
 namespace LoopStatements;
 
-public class PrimeNumberCheck
+public class PrimeNumber
 {
     public void PrimeMain()
     {
