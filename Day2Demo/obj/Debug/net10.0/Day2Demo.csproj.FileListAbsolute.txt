@@ -1,0 +1,14 @@
+D:\Capgemini\Day2Demo\bin\Debug\net10.0\Day2Demo.exe
+D:\Capgemini\Day2Demo\bin\Debug\net10.0\Day2Demo.deps.json
+D:\Capgemini\Day2Demo\bin\Debug\net10.0\Day2Demo.runtimeconfig.json
+D:\Capgemini\Day2Demo\bin\Debug\net10.0\Day2Demo.dll
+D:\Capgemini\Day2Demo\bin\Debug\net10.0\Day2Demo.pdb
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.AssemblyInfoInputs.cache
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.AssemblyInfo.cs
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.csproj.CoreCompileInputs.cache
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.dll
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\refint\Day2Demo.dll
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.pdb
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\Day2Demo.genruntimeconfig.cache
+D:\Capgemini\Day2Demo\obj\Debug\net10.0\ref\Day2Demo.dll
