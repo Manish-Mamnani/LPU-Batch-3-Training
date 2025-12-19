@@ -13,7 +13,7 @@ public class Largest
         Console.Write("Enter the third whole number: ");
         bool check3 = int.TryParse(Console.ReadLine(), out int thirdNumber);
 
-        if (!check1 && !check2 && !check3)
+        if (!check1 || !check2 || !check3)
         {
             System.Console.WriteLine("Invalid Input! Enter a whole number.");
             return;

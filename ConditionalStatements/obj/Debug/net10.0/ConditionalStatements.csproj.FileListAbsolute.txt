@@ -12,3 +12,4 @@ D:\Capgemini\ConditionalStatements\obj\Debug\net10.0\refint\ConditionalStatement
 D:\Capgemini\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.pdb
 D:\Capgemini\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.genruntimeconfig.cache
 D:\Capgemini\ConditionalStatements\obj\Debug\net10.0\ref\ConditionalStatements.dll
+D:\Capgemini\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.sourcelink.json
