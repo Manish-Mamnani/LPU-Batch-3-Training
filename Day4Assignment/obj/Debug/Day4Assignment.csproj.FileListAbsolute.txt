@@ -1,0 +1,7 @@
+D:\Capgemini\Day4Assignment\bin\Debug\Day4Assignment.exe.config
+D:\Capgemini\Day4Assignment\bin\Debug\Day4Assignment.exe
+D:\Capgemini\Day4Assignment\bin\Debug\Day4Assignment.pdb
+D:\Capgemini\Day4Assignment\obj\Debug\Day4Assignment.csproj.AssemblyReference.cache
+D:\Capgemini\Day4Assignment\obj\Debug\Day4Assignment.csproj.CoreCompileInputs.cache
+D:\Capgemini\Day4Assignment\obj\Debug\Day4Assignment.exe
+D:\Capgemini\Day4Assignment\obj\Debug\Day4Assignment.pdb

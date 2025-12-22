@@ -1,0 +1,15 @@
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.AssemblyInfoInputs.cache
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.AssemblyInfo.cs
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.csproj.CoreCompileInputs.cache
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.sourcelink.json
+D:\Capgemini\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.exe
+D:\Capgemini\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.deps.json
+D:\Capgemini\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.runtimeconfig.json
+D:\Capgemini\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.dll
+D:\Capgemini\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.pdb
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.dll
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\refint\InterfaceDemoProj.dll
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.pdb
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.genruntimeconfig.cache
+D:\Capgemini\InterfaceDemoProj\obj\Debug\net10.0\ref\InterfaceDemoProj.dll
