@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\CakeWorldDay5Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E445C8C1-6830-4962-8949-F322C927D045}|CakeWorldDay5Assignment.csproj|D:\\Capgemini\\CakeWorldDay5Assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445C8C1-6830-4962-8949-F322C927D045}|CakeWorldDay5Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445C8C1-6830-4962-8949-F322C927D045}|CakeWorldDay5Assignment.csproj|d:\\capgemini\\cakeworldday5assignment\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445C8C1-6830-4962-8949-F322C927D045}|CakeWorldDay5Assignment.csproj|solutionrelative:cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445C8C1-6830-4962-8949-F322C927D045}|CakeWorldDay5Assignment.csproj|D:\\Capgemini\\CakeWorldDay5Assignment\\invalidflavorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445C8C1-6830-4962-8949-F322C927D045}|CakeWorldDay5Assignment.csproj|solutionrelative:invalidflavorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidFlavorException.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CakeWorldDay5Assignment\\InvalidFlavorException.cs",
+              "RelativeDocumentMoniker": "InvalidFlavorException.cs",
+              "ToolTip": "D:\\Capgemini\\CakeWorldDay5Assignment\\InvalidFlavorException.cs",
+              "RelativeToolTip": "InvalidFlavorException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:05:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CakeWorldDay5Assignment\\Cake.cs",
+              "RelativeDocumentMoniker": "Cake.cs",
+              "ToolTip": "D:\\Capgemini\\CakeWorldDay5Assignment\\Cake.cs",
+              "RelativeToolTip": "Cake.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:46:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CakeWorldDay5Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\CakeWorldDay5Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:46:08.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

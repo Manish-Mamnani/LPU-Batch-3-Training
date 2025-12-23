@@ -1,0 +1,7 @@
+D:\Capgemini\CandyCrazeDay5Assignment\bin\Debug\CandyCrazeDay5Assignment.exe.config
+D:\Capgemini\CandyCrazeDay5Assignment\bin\Debug\CandyCrazeDay5Assignment.exe
+D:\Capgemini\CandyCrazeDay5Assignment\bin\Debug\CandyCrazeDay5Assignment.pdb
+D:\Capgemini\CandyCrazeDay5Assignment\obj\Debug\CandyCrazeDay5Assignment.csproj.AssemblyReference.cache
+D:\Capgemini\CandyCrazeDay5Assignment\obj\Debug\CandyCrazeDay5Assignment.csproj.CoreCompileInputs.cache
+D:\Capgemini\CandyCrazeDay5Assignment\obj\Debug\CandyCrazeDay5Assignment.exe
+D:\Capgemini\CandyCrazeDay5Assignment\obj\Debug\CandyCrazeDay5Assignment.pdb

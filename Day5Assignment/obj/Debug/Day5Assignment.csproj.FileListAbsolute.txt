@@ -1,0 +1,7 @@
+D:\Capgemini\Day5Assignment\bin\Debug\Day5Assignment.exe.config
+D:\Capgemini\Day5Assignment\bin\Debug\Day5Assignment.exe
+D:\Capgemini\Day5Assignment\bin\Debug\Day5Assignment.pdb
+D:\Capgemini\Day5Assignment\obj\Debug\Day5Assignment.csproj.AssemblyReference.cache
+D:\Capgemini\Day5Assignment\obj\Debug\Day5Assignment.csproj.CoreCompileInputs.cache
+D:\Capgemini\Day5Assignment\obj\Debug\Day5Assignment.exe
+D:\Capgemini\Day5Assignment\obj\Debug\Day5Assignment.pdb
