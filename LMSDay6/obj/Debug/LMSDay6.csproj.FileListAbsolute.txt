@@ -1,0 +1,7 @@
+D:\Capgemini\LMSDay6\bin\Debug\LMSDay6.exe.config
+D:\Capgemini\LMSDay6\bin\Debug\LMSDay6.exe
+D:\Capgemini\LMSDay6\bin\Debug\LMSDay6.pdb
+D:\Capgemini\LMSDay6\obj\Debug\LMSDay6.csproj.AssemblyReference.cache
+D:\Capgemini\LMSDay6\obj\Debug\LMSDay6.csproj.CoreCompileInputs.cache
+D:\Capgemini\LMSDay6\obj\Debug\LMSDay6.exe
+D:\Capgemini\LMSDay6\obj\Debug\LMSDay6.pdb
