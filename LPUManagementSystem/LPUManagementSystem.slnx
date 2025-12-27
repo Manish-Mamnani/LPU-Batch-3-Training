@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="D:/Capgemini/LPUManagementSystem/LPU_BL/LPU_BL.csproj" Id="8169ebed-f4b9-44c5-ac2d-a0b31a4186bf" />
+  <Project Path="D:/Capgemini/LPUManagementSystem/LPU_DAL/LPU_DAL.csproj" />
+  <Project Path="D:/Capgemini/LPUManagementSystem/LPU_Entity/LPU_Entity.csproj" />
+  <Project Path="D:/Capgemini/LPUManagementSystem/LPU_UI/LPU_UI.csproj" />
+</Solution>
