@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LPU_DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fdea99f59fcbdb04a0ee9287816bcd0f58b437a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56bfa45a0e7299156411d68c998f3e9a658436c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LPU_DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LPU_DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
